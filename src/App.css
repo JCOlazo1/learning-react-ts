@@ -1,3 +1,20 @@
+body {
+  background-color: #282c34;
+}
+
+.api-container {
+  color: #ccc;
+}
+
+.counter-container {
+  color: #cccccc;
+  letter-spacing: 2px;
+}
+
+.logger-container {
+  color: #cccccc;
+}
+
 .App {
   text-align: center;
 }
